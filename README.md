@@ -21,17 +21,19 @@ My name is Gurkirat Singh and I'm a Robotics & AI enthusiast. I'm from India, li
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
-## &#x270d; Blog & Writing
+## &#x270d; Personal Interests
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz).
+Apart from coding, I like singing and travelling to new places. I also love interacting with new people through various social networking sites as well as in real life.
 
-A sample of my recent articles:
+Sometimes, I also write blogs - you can find my articles on [Medium](https://medium.com/@gurkirat801802).
+
+<!-- A sample of my recent articles:-->
 
 <!-- BLOG-POST-LIST:START -->
-- [Data and System Visualization Tools That Will Boost Your Productivity](https://martinheinz.dev/blog/75)
+<!-- - [Data and System Visualization Tools That Will Boost Your Productivity](https://martinheinz.dev/blog/75)
 - [Stop Messing with Kubernetes Finalizers](https://martinheinz.dev/blog/74)
 - [Automate All the Boring Kubernetes Operations with Python](https://martinheinz.dev/blog/73)
-- [End-to-End Monitoring with Grafana Cloud with Minimal Effort](https://martinheinz.dev/blog/72)
+- [End-to-End Monitoring with Grafana Cloud with Minimal Effort](https://martinheinz.dev/blog/72) -->
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
