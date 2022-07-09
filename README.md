@@ -68,9 +68,9 @@ A sample of my recent articles:
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://github.com/MartinHeinz
-[3]: https://www.linkedin.com/in/heinz-martin/
+[1]: https://twitter.com/SardaarG007
+[2]: https://github.com/gurkirat007
+[3]: https://www.linkedin.com/in/gurkirat-singh-9a49a320a/
 
 
 <!-- Resources -->
